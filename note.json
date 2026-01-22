@@ -1,6 +1,4 @@
 {
-  "version": "1.0.4",
-  "exe_name": "client.exe",
-  "download_url": "https://github.com/SuperMirror7/wizard/releases/tag/update/client.exe",
-  "sha256": "e810b056b06ea935325da4d3bc7f945b200dc84a5fd49136d099157676648a17"
+    "version": "1.0.0",
+    "changelog": "Your update notes here"
 }
